@@ -1,2 +1,3 @@
 # MGMProject
-Prova Processo seletivo
+Projeto con Entity framewok e MVC 
+Foi feito em VB.NET
